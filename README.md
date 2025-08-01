@@ -1,3 +1,3 @@
-# √ Cycle Cheching
+# ✅ Cycle Cheching
 
 A simple algo practice to check if given two arrays could be a cycle. 
